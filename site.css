@@ -1,0 +1,107 @@
+.main{
+   
+    margin: auto;
+    width: 850px;
+    background-color: lightgray;
+} 
+
+.Roboto{
+    font-family: 'Roboto';
+    font-size: 60px;
+    
+}
+
+.alecdurocher{
+    padding-top: 170px;
+}
+.red{
+    color: red;
+}
+.ligne1{
+    display: grid;
+    grid-template-columns: 60% 40%;
+    padding-left: 10px;
+ 
+}
+.image{
+    border-radius: 50%;
+    padding: 10px;
+    border: solid 5px orangered;
+    background-color: lightgray;
+    width: 200px;
+    margin-left: 30px;
+    margin-top: 80px;
+}
+.logo{
+width: 40px;
+border-radius: 50%;
+padding-left: 10px;
+}
+.emplacementLogo{
+    margin-bottom: 100px;
+}
+.rectangle1{
+text-align: center;
+background-color: orangered;
+border-radius: 20px;
+color: silver;
+margin-left: 150px;
+margin-right: 150px;
+margin-bottom: 100px;
+}
+.ligne2{
+    display: grid;
+    grid-template-columns: 29% 2% 69%;
+}
+.rectangle2{
+    text-align: center;
+    background-color: red;
+    color: silver;
+    border-radius: 20px;
+    width: 400px;
+    margin-bottom: 50px;
+    margin-left: 70px ;
+    margin-top: 50px;
+}
+
+.rectangle3{
+    background-color: red;
+    border-radius: 20px;
+    color: silver;
+    margin-bottom: 15%;
+    margin-top: 50px;
+    padding-left: 5px;
+    
+}
+.barre{
+    width: 1px;
+    background-color: orangered;
+
+}
+.rectangle4{
+    background-color: red;
+    border-radius: 20px;
+    color: silver;
+    margin-bottom: 15%;
+    margin-top: 50px;
+    padding-left: 5px;
+    
+}
+.rectangle5{
+    background-color: red;
+    color: silver;
+    text-align: center;
+border-radius: 20px;
+margin-left: 250px;
+margin-right: 250px;
+margin-top: 30px;
+}
+.formations{
+    text-align: center;
+    margin-top: 20px;
+}
+/*div{
+    border: solid 1px red;
+}
+
+
